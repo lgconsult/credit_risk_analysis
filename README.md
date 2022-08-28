@@ -41,5 +41,5 @@ The recall score for high risk borrowers was .81 and for low risk .89 meaning th
 balanced accuracy score
 
 ## Summary
-The easy ensemble adabooster classifier is easily the best model to use in this analysis. It has the lowest likelihood of producing false negatives, which would be difficult to correct when approving borrowers for new lending. It also had the lowest chance of producing false negatives, which would be easier corrections to make. The other models all performed about the same in that they had a 100% chance of producing false negatives and should not be used for this analysis.
-precision and recall scores
+The easy ensemble adabooster classifier is easily the best model to use in this analysis. It has the lowest likelihood of producing false negatives, which would be difficult to correct when approving borrowers for new lending. It also had the lowest chance of producing false positives, which would be easier corrections to make. The other models all performed about the same in that they had a 100% chance of producing false negatives and should not be used for this analysis.
+
